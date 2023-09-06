@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home4/h2b0yxhx/dnsqu/
+    - export DEPLOYPATH=/home4/h2b0yxhx/dnsqu
     - /bin/cp -r * $DEPLOYPATH
